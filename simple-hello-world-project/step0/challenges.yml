@@ -1,0 +1,5 @@
+name: 'Getting Started'
+stepId: step0
+stepBreakDown:
+    - text: You must have h1 tag on screen
+    - text: You must have "Hello World" inside that h1 tag

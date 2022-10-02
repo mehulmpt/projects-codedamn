@@ -1,0 +1,6 @@
+name: Adding h2 tag
+stepId: step1
+stepBreakDown:
+    - text: You must have h2 tag on screen
+    - text: You must have "Hello World" inside that h2 tag
+    - text: H1 tag should still exist

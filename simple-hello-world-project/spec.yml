@@ -1,0 +1,25 @@
+name: Simple Hello World Project in HTML
+tags: ['HTML/CSS']
+starter-files: https://github.com/mehulmpt/simple-hello-world-guided-project-start
+type: frontend
+level: easy
+cover-image: https://github.com/codedamn-projects/multiverse-photo-gallery-project/blob/master/designs/Gallery%20%5BDesktop%5D.png?raw=true
+short-description: Building a website with all heading tags saying hello world.
+long-description: |
+    Your challenge is to use all heading tags (h1 to h6) in this project and write "Hello World" inside each one of them.
+
+    This would involve:
+    - h1
+    - h2
+    - h3
+    - h4
+    - h5
+    - h6
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true
